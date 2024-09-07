@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Nathan, I am looking to begin a career in information technology.
 
 <!--
 **Nathanphillips-info/Nathanphillips-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
