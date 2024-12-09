@@ -17,4 +17,4 @@
 [<img align="left" alt="Nathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/nathan-phillips-11a763212
+[linkedin]: https://www.linkedin.com/in/nathan-phillips-11a763212
