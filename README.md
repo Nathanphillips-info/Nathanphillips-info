@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nathanphillips-info/Azure-Network-Protocols-)
 
 <h2>🤳Connect with me:</h2>
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/nathan-phillips-11a763212)
+
 
 
 [<img align="left" alt="Nathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
