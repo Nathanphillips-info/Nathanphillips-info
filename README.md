@@ -11,6 +11,7 @@ I'm Nathan, an IT enthusiast with a passion for networking, Linux, and infrastru
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nathanphillips-info/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nathanphillips-info/Azure-Network-Protocols-)
+- <b>Homelab Projects</b>
 
 <h2>Connect with me:</h2>
 
