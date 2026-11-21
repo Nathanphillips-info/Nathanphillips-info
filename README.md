@@ -1,4 +1,6 @@
-## Hi there  My name is Nathan, I am looking to begin a career in information technology.
+## Hi there!
+
+I'm Nathan, an IT enthusiast with a passion for networking, Linux, and infrastructure automation. I enjoy building and managing my own homelab, experimenting with new technologies, and developing practical solutions to technical problems.
 
 <h2> Information Technology Projects:</h2>
 
