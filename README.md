@@ -12,9 +12,9 @@ I'm Nathan, an IT enthusiast with a passion for networking, Linux, and infrastru
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nathanphillips-info/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nathanphillips-info/Azure-Network-Protocols-)
 - <b>Homelab Projects</b>
-
+  - [PfSense Set up and Configuration](https://github.com/Nathanphillips-info/Pfsense-HomeLab-Configuration)
+  - [Traefik set up](https://github.com/Nathanphillips-info/Traefik-setup/tree/main)
 <h2>Connect with me:</h2>
-
 
 
 [<img align="left" alt="Nathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
